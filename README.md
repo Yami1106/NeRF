@@ -69,3 +69,4 @@ C(r) = Σ Tᵢ (1 - exp(-σᵢδᵢ)) cᵢ    where    Tᵢ = exp(-Σⱼ<ᵢ σ�
 <div align="center">
 Part of the WPI Computer Vision course · <a href="https://github.com/Yami1106">Ashish Sukumar</a>
 </div>
+<!-- -->
